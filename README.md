@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 You can take a closer look at the code و All of my projects are available at  [https://github.com/khaled-dawoud?tab=repositories](https://github.com/khaled-dawoud?tab=repositories)
+- 👨‍💻 You can take a closer look at the code , All of my projects are available at  [https://github.com/khaled-dawoud?tab=repositories](https://github.com/khaled-dawoud?tab=repositories)
 
 - 📫 How to reach me **khalid.daowd@gmail.com**
 

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
 <h3 align="center">A Freelance Backend Developer From Palestine</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaled-dawoud" alt="khaled-dawoud" /></a> </p>
 
 - 🌱 I’m currently learning **vue.js and react.js**
 

@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
-<h3 align="center">A Freelance Backend Developer From Palestine</h3>
+<h3 align="center">A Freelance Backend Developer From Palestine .</h3>
+<h3 align="center">I have over 3 years of full-time back-end development And
+I have done a wide variety of projects with PHP Laravel.</h3>
 
 
 - 📄 Know about my experiences [I have worked on different projects in backend development that contain multiple ideas such as,CRUD Application , APIs , Paynments ,Query Builder](I have worked on different projects in backend development that contain multiple ideas such as,CRUD Application , APIs , Paynments ,Query Builder)

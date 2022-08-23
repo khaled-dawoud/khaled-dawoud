@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
 <h3 align="center">A Freelance Backend Developer From Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-dawoud&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-dawoud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaled-dawoud" alt="khaled-dawoud" /></a> </p>
 
@@ -24,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-dawoud&show_icons=true&locale=en&layout=compact" alt="khaled-dawoud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-dawoud&show_icons=true&locale=en" alt="khaled-dawoud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-dawoud&" alt="khaled-dawoud" /></p>

@@ -4,7 +4,7 @@
 I have done a wide variety of projects with PHP Laravel.</h3>
 
 
-- 📄 Know about my experiences [I have worked on different projects in backend development that contain multiple ideas such as,CRUD Application , APIs , Paynments ,Query Builder](I have worked on different projects in backend development that contain multiple ideas such as,CRUD Application , APIs , Paynments ,Query Builder)
+- 📄 Know about my experiences [I have worked on different projects in backend development that contain multiple ideas such as,CRUD Application , APIs , Paynments ,Query Builder]
 
 
 

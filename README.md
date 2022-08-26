@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
-<h3 align="center">A Freelance Full Stack Developer From Palestine .</h3>
-<h3 align="center">I have over 2 years of full-time back-end development And
+<h3 align="center">A Full Stack Developer, And
 I have done a wide variety of projects with PHP Laravel.</h3>
 
 
-- 📄 Know about my experiences [I have worked on different projects in backend development that contain multiple ideas such as,CRUD Application , APIs , Paynments ,Query Builder]
+- 📄 Know about my experiences:
+I have worked on different projects in backend development that contain multiple ideas such as: 
+1- CRUD Application.
+2-APIs.
+3- Payment Gateways.
+,Query Builder
 
 
 
-- 👨‍💻 You can take a closer look at the code , All of my projects are available at  [https://github.com/khaled-dawoud?tab=repositories](https://github.com/khaled-dawoud?tab=repositories)
+- 👨‍💻 You can take a closer look at the code, All of my projects are available at  [https://github.com/khaled-dawoud?tab=repositories](https://github.com/khaled-dawoud?tab=repositories)
 
 - 📫 How to reach me **khalid.daowd@gmail.com**
-
-- 🌱 I’m currently learning **vue.js and react.js**
 
 
 

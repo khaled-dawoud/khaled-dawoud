@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
 <h3 align="center">A Backend Developer, And
 I have done a wide variety of projects that contain multiple ideas with PHP Laravel.</h3><br>
+- 📫 How to reach me **hayhtam14@gmail.com**
 
 
 ****Languages and Tools:****
@@ -20,7 +21,6 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 <a href="https://discord.gg/khalid.daowd#5608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khalid.daowd#5608" height="30" width="40" /></a>
 
 </p>
-- 📫 How to reach me khalid.daowd@gmail.com
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-dawoud&show_icons=true&locale=en&layout=compact" alt="khaled-dawoud" /></p>

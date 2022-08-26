@@ -46,7 +46,8 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 <h3> Features </h3>
 
 - Control Managment System (CMS).
-- Authentication And Policy
+- Easy-to-use Website.
+- Authentication And Policy.
 - Api (HyperPay Payment Gateway).
 - Handling With Data And CRUD Application.
 - <a href="https://github.com/khaled-dawoud/e-commerce">Link!</a>
@@ -56,27 +57,25 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 
 <hr>
 
-<h3>2- Doctor's appointment booking system</h3>
-A website for doctors to record appointments with patients in a simple and easy to deal with.
+<h3>2- Clinic Center</h3>
+A website that enables the patient to book an appointment with the doctor he wants and allows the doctor to add available appointments and other details.
 <h3>Features</h3>
 
-- single page application
-- Corn job
-- Notifications
-- Tow type of users (Doctor, Organizer)
-- Easy to use
-- <a href="https://hospital-booking.000webhostapp.com/">Link!</a>
+- Control Managment System (CMS).
+- Easy-to-use Website.
+- Authentication And Policy For Three Users (Doctors , Admin , patient).
+- Doctors Can Add An Appoentments From CMS.
+- Api (HyperPay Payment Gateway).
+- Handling With Data And CRUD Application.
+- <a href="https://github.com/khaled-dawoud/Medical-Center">Link!</a>
 
 <hr>
 
 
-<h3>3- System to track accident reports</h3>
-A website to track accident reports and determine the degree of danger and send them to the concerned department.
-<h3>Features</h3>
+<h3>3- School Management System </h3>
+work in progress.
 
-- Easy to use
-- Notifications
-- multi types of users (hospital manager, Director of the Department, risk manager )
 
+- <a href="https://github.com/khaled-dawoud/School-Management-System">Link!</a>
 <hr>
 

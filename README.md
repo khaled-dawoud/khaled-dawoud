@@ -40,20 +40,15 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 
 </p>
 
-## Latest projects 🚀
+## projects 🚀
 
-<h3>1- Website for Marketing company </h3>
-A project for a marketing company that aims to attract customers interested in marketing their business or companies.
-<h3>Features 💥</h3>
-
-- Control Managment System (CMS)
-- Laravel user roles and permissions
-- Email message
-- SMS message
-- Api 
-- Marketings tool (facebook pixel, snapchat psixel,google verfication)
-- Easy to use
-- <a href="https://tif.sa">Link!</a>
+<h3>1- E-Commerce (Store) </h3>
+<h4> Features </h4>
+- Control Managment System (CMS).
+- Authentication And Policy
+- Api (HyperPay Payment Gateway).
+- Handling With Data And CRUD Application.
+- <a href="https://github.com/khaled-dawoud/e-commerce">Link!</a>
 
 
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
 <h3 align="center">A Backend Developer, And
-I have done a wide variety of projects that contain multiple ideas with PHP Laravel.</h3>
+I have done a wide variety of projects that contain multiple ideas with PHP Laravel.</h3><br>
 
 
-***Languages and Tools:***
+*Languages and Tools:*
  - ForntEnd Languages : Html, Css, Js, Bootstap
  - BackEnd : php in specific Framework Laravel and using jquery in Requests
  - Using version control system Git

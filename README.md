@@ -3,8 +3,7 @@
 I have done a wide variety of projects that contain multiple ideas with PHP Laravel.</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>  <br>
-
+<h3 align="left">Languages and Tools:</h3>
  - ForntEnd Languages : Html, Css, Js, Bootstap, jQuery.
  - BackEnd : PHP, Laravel, MySQL.
  - Others : Git, GitHub.

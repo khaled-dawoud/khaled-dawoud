@@ -22,23 +22,6 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
   <a href="https://www.instagram.com/kh_x99x"><img src="https://img.icons8.com/color/32/instagram.png" alt="instagram"/></a>
 </p>
 
-## 📈 GitHub Stats 
-
-<a href="https://github.com/khaled-amoudi/khaled-amoudi">
-<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&hide_border=true&layout=compact" alt="khaled-amoudi" />
-</a>
-<br>
-
-<a href="https://github.com/khaled-dawoud/khaled-dawoud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-dawoud&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=khaled%dawoud%27%20Github%20Stats" alt="khaled's GitHub Stats" />
-</a>
-<br>
-<a href="https://github.com/khaled-dawoud/khaled-dawoud">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled-dawoud&theme=radical&hide_border=true)](https://github.com/khaled-dawoud" alt="khaled's GitHub Stats Graph"/>
-</a>
-<br><br>
-
-</p>
 
 ## projects 🚀
 
@@ -78,4 +61,22 @@ work in progress.
 
 - <a href="https://github.com/khaled-dawoud/School-Management-System">Link!</a>
 <hr>
+
+## 📈 GitHub Stats 
+
+<a href="https://github.com/khaled-amoudi/khaled-amoudi">
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&hide_border=true&layout=compact" alt="khaled-amoudi" />
+</a>
+<br>
+
+<a href="https://github.com/khaled-dawoud/khaled-dawoud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-dawoud&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=khaled%dawoud%27%20Github%20Stats" alt="khaled's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/khaled-dawoud/khaled-dawoud">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled-dawoud&theme=radical&hide_border=true)](https://github.com/khaled-dawoud" alt="khaled's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+</p>
 

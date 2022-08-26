@@ -1,20 +1,13 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Backend Developer(Laravel/PHP) @ <a href='https://sarao.ac.za'>SARAO</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
-<h3 align="center">A Full Stack Developer, And
-I have done a wide variety of projects with PHP Laravel.</h3>
+<h3 align="center">A Backend Developer, And
+I have done a wide variety of projects that contain multiple ideas with PHP Laravel.</h3>
 
 
-- 📄 Know about my experiences:
-I have worked on different projects in backend development that contain multiple ideas such as: 
-1- CRUD Application.
-2-APIs.
-3- Payment Gateways.
-,Query Builder
-
-
-
-- 👨‍💻 You can take a closer look at the code, All of my projects are available at  [https://github.com/khaled-dawoud?tab=repositories](https://github.com/khaled-dawoud?tab=repositories)
+**Languages and Tools:**
+ - ForntEnd Languages : Html, Css, Js, Bootstap, jQuery.
+ - BackEnd : PHP, Laravel, MySQL.
+ - Others : Git, GitHub.
+  <br>
 
 - 📫 How to reach me **khalid.daowd@gmail.com**
 

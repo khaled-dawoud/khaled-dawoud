@@ -20,7 +20,7 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 <a href="https://discord.gg/khalid.daowd#5608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khalid.daowd#5608" height="30" width="40" /></a>
 
 </p>
-- 📫 How to reach me **khalid.daowd@gmail.com**
+- 📫 How to reach me khalid.daowd@gmail.com
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-dawoud&show_icons=true&locale=en&layout=compact" alt="khaled-dawoud" /></p>

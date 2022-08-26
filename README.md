@@ -19,12 +19,20 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 <a href="https://instagram.com/kh_x99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kh_x99x" height="30" width="40" /></a>
 <a href="https://discord.gg/khalid.daowd#5608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khalid.daowd#5608" height="30" width="40" /></a>
 
+## 📈 GitHub Stats 
+
+<a href="https://github.com/khaled-amoudi/khaled-amoudi">
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&hide_border=true&layout=compact" alt="khaled-amoudi" />
+</a>
+
+<a href="https://github.com/khaled-dawoud/khaled-dawoud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-dawoud&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=khaled%dawoud%27%20Github%20Stats" alt="khaled's GitHub Stats" />
+</a>
+
+<a href="https://github.com/khaled-dawoud/khaled-dawoud">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled-dawoud&theme=radical&hide_border=true)](https://github.com/khaled-dawoud" alt="khaled's GitHub Stats Graph"/>
+</a>
+<br><br>
+
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-dawoud&show_icons=true&locale=en&layout=compact" alt="khaled-dawoud" /></p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-dawoud&" alt="khaled-dawoud" /></p>

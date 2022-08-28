@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Dawoud</h1>
-<h3 align="center">A Backend Developer, And
+<h3 align="center">A Full Stack Developer, And
 I have done a wide variety of projects that contain multiple ideas with PHP Laravel.</h3><br>
 
 

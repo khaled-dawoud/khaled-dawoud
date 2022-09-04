@@ -5,7 +5,7 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 
 ****Languages and Tools:****
  - ForntEnd Languages : Html, Css, Js, Bootstap
- - BackEnd : php in specific Framework Laravel and using jquery in Requests
+ - BackEnd : php in specific Framework Laravel.
  - Using version control system Git
   <br>
   

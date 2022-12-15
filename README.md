@@ -14,11 +14,9 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 
 
 
-<h3 align="left">Connect with me:</h3>
- ## 🌐 Socials:
+<h3 align="left">Connect me in email:</h3>
 <p align="center">
-  <a href="khalid.daowd@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://facebook.com/profile.php?id=100023086821374"><img src="https://img.icons8.com/color/32/facebook.png" alt="facebook"/></a>
+  ##khalid.daowd@gmail.com
 </p>
 
 

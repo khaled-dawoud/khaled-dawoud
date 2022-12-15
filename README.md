@@ -60,9 +60,6 @@ A website that enables the patient to book an appointment with the doctor he wan
 <h3>More Projects:</h3>
 -  <a href="https://github.com/khaled-dawoud?tab=repositories">Link!</a>
 
-- Its code is private
-- I completed this project for Atyaf Company
-- - <a href="https://atyaf.co">Link!</a>
 
 ## 📈 GitHub Stats 
 

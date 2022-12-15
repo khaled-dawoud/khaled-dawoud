@@ -15,9 +15,7 @@ I have done a wide variety of projects that contain multiple ideas with PHP Lara
 
 
 <h3 align="left">Connect me in email:</h3>
-<p align="center">
-  ##khalid.daowd@gmail.com
-</p>
+ <h4>khalid.daowd@gmail.com</h4>
 
 
 ## projects 🚀

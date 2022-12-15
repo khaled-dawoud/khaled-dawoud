@@ -50,12 +50,10 @@ A website that enables the patient to book an appointment with the doctor he wan
 <hr>
 
 
-<h3>3- School Management System </h3>
-work in progress.
-
-
-- <a href="https://github.com/khaled-dawoud/School-Management-System">Link!</a>
-<hr>
+<h3>3- Advance E-commerce Dashboard with graphql</h3>
+- Its code is private
+- I completed this project for Atyaf Company
+- https://atyaf.co
 
 ## 📈 GitHub Stats 
 

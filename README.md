@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Khaled Daowd</h1>
-<h3 align="center">A passionate ReactJs frontend developer And I have done a wide variety of projects that contain multiple ideas</h3>
-
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Khaled+Daowd+Web+Developer)](https://git.io/typing-svg)
+ 👋</h1>
+<!-- <h3 align="center">A passionate ReactJs frontend developer And I have done a wide variety of projects that contain multiple ideas</h3>
+ -->
 - 📫 Go To My Website [https://khalid-daowd.netlify.app/](https://khalid-daowd.netlify.app/)
 
 - 🔭 I’m currently working on **Advance React Dashboard**

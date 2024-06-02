@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋+I'm+Khaled+Daowd+a+Web+Developer)](https://git.io/typing-svg)</h1>
 <!-- <h3 align="center">A passionate ReactJs frontend developer And I have done a wide variety of projects that contain multiple ideas</h3>
  -->
+ # 💫 About Me:
+✔ Khaled from Palestine, I love coding and spreading motivational vibes. Let's connect and create amazing things together!
+
 - 📫 Go To My Website [https://khalid-daowd.netlify.app/](https://khalid-daowd.netlify.app/)
 
-- 🔭 I’m currently working on **Advance React Dashboard**
+- 🔭 I’m working on my project **Advance React Dashboard** it's almost done.
 
 - 👨‍💻 All of my projects are available at [https://github.com/khaled-dawoud?tab=repositories](https://github.com/khaled-dawoud?tab=repositories)
 

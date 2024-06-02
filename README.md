@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋+I'm+Khaled+Daowd+a+Web+Developer)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋+I'm+Khaled+Daowd+a+Web+Eng)](https://git.io/typing-svg)</h1>
 <!-- <h3 align="center">A passionate ReactJs frontend developer And I have done a wide variety of projects that contain multiple ideas</h3>
  -->
  # 💫 About Me:
